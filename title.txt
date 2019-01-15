@@ -1,0 +1,6 @@
+---
+title: タイトル
+author: stakiran
+rights: © 2019 stakiran
+language: ja-JP
+...
